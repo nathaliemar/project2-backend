@@ -1,33 +1,41 @@
 {
-  "projects": [
+  "favorites": [],
+  "recipes": [
     {
-      "id": 1,
-      "title": "Hello world",
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1
-    },
-    {
-      "id": 2,
-      "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack.",
-      "userId": 1
-    }
-  ],
-  "tasks": [
-    {
-      "id": 1,
-      "projectId": 1,
-      "description": "Use Vite to create a basic React app"
-    },
-    {
-      "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
-    },
-    {
-      "id": 3,
-      "projectId": 2,
-      "description": "Create a form with 5 input fields"
+      "id": 19052025,
+      "name": "Lemon Tiramisú",
+      "ingredients": [
+        "Lemon Curd",
+        "Mascarpone",
+        "Heavy Cream",
+        "Powdered Sugar",
+        "Vanilla Sugar",
+        "Water",
+        "Lemons"
+      ],
+      "instructions": [
+        "Combine sugar and lemon juice with water in a pot and let it simmer for 5 minutes",
+        "Whip heavy cream with vanilla sugar",
+        "Combine whipped cream with Mascarpone and Powdered Sugar",
+        "Add first layer of lady fingers to a casserole dish and spread lemon syrup",
+        "Add a layer of cream, followed by a thin layer of lemon curd",
+        "Add a layer of lady fingers dipped in syrup",
+        "Mix the remaining lemon curd with the remaining cream and add it as the final layer",
+        "Use remaining cream and lemons to decorate as desired",
+        "Refridgerate for at least 60 mins, or over night"
+      ],
+      "prepTimeMinutes": 40,
+      "cookTimeMinutes": 60,
+      "servings": 6,
+      "difficulty": "Easy",
+      "cuisine": "Italian",
+      "caloriesPerServing": 600,
+      "tags": ["Dessert", "Italian"],
+      "userId": 1,
+      "image": "https://images.unsplash.com/photo-1730672558646-c65c4784dd16?q=80&w=2848&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": null,
+      "reviewCount": null,
+      "mealType": ["Dessert"]
     }
   ]
 }
