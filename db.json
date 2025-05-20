@@ -1,5 +1,5 @@
 {
-  "favorites": { "ids": [] },
+  "favorites": [{ "id": 1, "item_id": 3 }],
   "recipes": [
     {
       "id": 19052025,
